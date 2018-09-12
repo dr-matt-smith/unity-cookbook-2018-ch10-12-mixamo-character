@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch09-12-mixamo-character
+# unity-cookbook-2018-ch10-12-mixamo-character
